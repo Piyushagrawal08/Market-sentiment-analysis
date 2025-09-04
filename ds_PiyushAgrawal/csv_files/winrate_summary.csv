@@ -1,0 +1,6 @@
+,classification,mean_winrate,min_winrate,max_winrate,std_winrate
+0,Extreme Fear,38.33,0,100,48.62
+1,Extreme Greed,46.89,0,100,49.9
+2,Fear,39.21,0,100,48.82
+3,Greed,42.08,0,100,49.37
+4,Neutral,40.3,0,100,49.05
