@@ -33,7 +33,7 @@ We used:\
 ## 🚀 How to Run the Notebook
 
 1.  Open the notebook in **Google Colab**:\
-    [notebook_1.ipynb](https://colab.research.google.com/github/Piyushagrawal08/Market-sentiment-analysis/blob/main/notebook_1.ipynb)
+    [notebook_1.ipynb](https://colab.research.google.com/drive/1fI9QI4jTVeUnjnWkIZXrpzKoJ82mOqac?usp=sharing)
 
 2.  Ensure dependencies are installed (Pandas, NumPy, Matplotlib,
     Seaborn, etc.)
