@@ -58,7 +58,7 @@ We used:\
 ## 📑 Report
 
 The detailed analysis, visuals, and insights are available in the
-[ds_report.pdf](./ds_report.pdf).
+ds_report.pdf
 
 ------------------------------------------------------------------------
 
