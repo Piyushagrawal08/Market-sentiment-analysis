@@ -73,5 +73,4 @@ ds_report.pdf
 ## 👤 Author
 
 **Piyush Agrawal**\
-Final Year B.Tech -- Information Technology\
-Data Analytics Enthusiast
+Data analyst
