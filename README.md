@@ -4,11 +4,11 @@
 
 This project explores the relationship between **trader behavior**
 (profitability, risk, volume, leverage) and **market sentiment** (Fear
-vs. Greed).\
+vs. Greed).
 The goal is to identify hidden patterns that can improve trading
 strategies in volatile crypto markets.
 
-We used:\
+We used:
 - **Bitcoin Market Sentiment Dataset** (Fear & Greed Index)\
 - **Historical Trader Data from Hyperliquid**
 
@@ -32,7 +32,7 @@ We used:\
 
 ## 🚀 How to Run the Notebook
 
-1.  Open the notebook in **Google Colab**:\
+1.  Open the notebook in **Google Colab**:
     [notebook_1.ipynb](https://colab.research.google.com/drive/1fI9QI4jTVeUnjnWkIZXrpzKoJ82mOqac?usp=sharing)
 
 2.  Ensure dependencies are installed (Pandas, NumPy, Matplotlib,
@@ -45,11 +45,11 @@ We used:\
 ## 📊 Key Insights
 
 -   **Risk Exposure:** Traders take significantly higher risks during
-    *Extreme Fear* (avg. \~25k USD exposure).\
+    *Extreme Fear* (avg. ~25k USD exposure).
 -   **PnL Distribution:** Median PnL remains near zero across
-    sentiments, with extreme gains/losses observed.\
+    sentiments, with extreme gains/losses observed.
 -   **Trade Size:** Larger trades occur during *Extreme Fear*,
-    suggesting contrarian behavior.\
+    suggesting contrarian behavior.
 -   **Sentiment Impact:** Fear phases trigger overexposure, while greed
     phases show more controlled trading.
 
@@ -64,13 +64,13 @@ ds_report.pdf
 
 ## 🛠️ Tech Stack
 
--   **Python** (Pandas, NumPy, Matplotlib, Seaborn)\
--   **Google Colab**\
+-   **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+-   **Google Colab**
 -   **GitHub** for version control
 
 ------------------------------------------------------------------------
 
 ## 👤 Author
 
-**Piyush Agrawal**\
+**Piyush Agrawal**
 Data analyst
