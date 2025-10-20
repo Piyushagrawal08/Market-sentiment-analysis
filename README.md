@@ -9,7 +9,7 @@ The goal is to identify hidden patterns that can improve trading
 strategies in volatile crypto markets.
 
 We used:
-- **Bitcoin Market Sentiment Dataset** (Fear & Greed Index)\
+- **Bitcoin Market Sentiment Dataset** (Fear & Greed Index)
 - **Historical Trader Data from Hyperliquid**
 
 ------------------------------------------------------------------------
